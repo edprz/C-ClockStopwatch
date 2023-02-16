@@ -132,5 +132,5 @@ int main(){
         default:
             printf("\nInvalid option.\n");
     }
-    /*WIP, have to add mode to append and mode to sort the contents directly into the txt file not console*/
+    
 }
